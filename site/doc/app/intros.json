@@ -1,0 +1,17 @@
+[
+  {
+    "path": "docs/introduce",
+    "label": "Ant Design of Angular",
+    "order": 0
+  },
+  {
+    "path": "docs/faq",
+    "label": "常见问题",
+    "order": 9
+  },
+  {
+    "path": "docs/changelog",
+    "label": "更新日志",
+    "order": 11
+  }
+]
