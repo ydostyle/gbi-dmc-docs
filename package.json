@@ -66,7 +66,7 @@
     "less-plugin-clean-css": "^1.5.1",
     "lint-staged": "^8.1.5",
     "marked": "^0.6.2",
-    "ng-packagr": "^5.2.0",
+    "ng-packagr": "^10.1.1",
     "ngx-color": "^2.0.5",
     "node-prismjs": "^0.1.1",
     "prettier": "^1.16.4",
