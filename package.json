@@ -70,7 +70,7 @@
     "ngx-color": "^2.0.5",
     "node-prismjs": "^0.1.1",
     "prettier": "^1.16.4",
-    "prismjs": "^1.10.0",
+    "prismjs": "^1.27.0",
     "protractor": "~5.4.0",
     "readline-sync": "^1.4.9",
     "remark": "^8.0.0",
